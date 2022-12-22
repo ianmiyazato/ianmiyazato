@@ -14,7 +14,7 @@
   <img align="center" alt="Ian-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Ian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ian-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Ian-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEAjc9wBYlizA/profile-displayphoto-shrink_200_200/0/1671659701615?e=1677110400&v=beta&t=XN1Fk9oMjyBYV28UJSjRPZMH-RH_2SLGuwI42RsHLV4">
+  
 </div>
   
   ##
