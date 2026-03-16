@@ -1,33 +1,58 @@
-## Olá! Eu sou Ian Miyazato, programador e apaixonado por tecnologia!
+<!-- Replace YOUR_USERNAME with your actual GitHub username everywhere below -->
 
-<div align="center">
-  <a href="https://github.com/ianmiyazato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianmiyazato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmiyazato&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ian-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Ian-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Ian-Nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">        
-  <img align="center" alt="Ian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ian-Dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Ian-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="Ian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ian-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Ian-MySql" height="80" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Ian-SqlServer" height="80" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">        
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:ianmiyazato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ian-takeo-rocha-miyazato-706076224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/ianmiyazato/ianmiyazato/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# Ian Takeo Rocha Miyazato
+
+**Backend Engineer · Distributed Systems · Cloud Architecture · Go · Node.js · AWS**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianmiyazato)
+[![CV](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://YOUR_CV_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-ian.miyazato.pro%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ian.miyazato.pro@gmail.com)
+
+---
+
+## What I build
+
+I design and operate **distributed backend systems** that handle real production scale — high concurrency, event-driven workloads, and millions of monthly users. My work sits at the intersection of system architecture, reliability engineering, and business outcomes: building systems that scale without unnecessary complexity, and teams that ship with confidence.
+
+Currently building **career intelligence infrastructure** at Borderless Coding (US). Previously at **C&A Brasil** ($1.5B retail), engineering the distributed systems that power omnichannel commerce at national scale.
+
+---
+
+## Production scale, in numbers
+
+| What | Result |
+|---|---|
+| Concurrency failures resolved across distributed Go services | **140M+ monthly transactions · error rate 1.8% → 0.5%** |
+| API latency reduction via event-driven architecture (Kafka + SQS) | **450ms → 180ms at 500–1,500 RPS** |
+| Database layer optimization — zero infrastructure scaling | **3–5× faster · 350K daily users sustained** |
+
+---
+
+## Tech Stack
+
+**Languages:** Go (Golang) · TypeScript · JavaScript · Python · C# (.NET) · SQL
+
+**Backend:** Node.js · NestJS · Fastify · FastAPI · .NET Core · GraphQL
+
+**Frontend:** React · Next.js · React Native · Angular · Tailwind CSS · Electron · Redux
+
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, ECS, MSK) · Docker · Kubernetes · Terraform · GitHub Actions · Azure DevOps · CI/CD
+
+**Databases:** PostgreSQL · MongoDB · Oracle · Redis · ClickHouse · Elasticsearch
+
+**Messaging:** Apache Kafka · RabbitMQ · Amazon SQS · Amazon SNS
+
+**Observability:** Grafana · Dynatrace · Prometheus · OpenTelemetry · ELK Stack · SonarQube
+
+---
+
+## GitHub Stats
+
+![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+
+---
+
+*São Paulo, Brazil (GMT-3) · Remote-ready
