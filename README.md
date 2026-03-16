@@ -48,10 +48,10 @@ Currently building **career intelligence infrastructure** at Borderless Coding (
 
 ## GitHub Stats
 
-![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianmiyazato&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianmiyazato&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ianmiyazato&theme=github-dark-blue&hide_border=true)
 
 ---
 
