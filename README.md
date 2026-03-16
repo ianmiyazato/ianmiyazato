@@ -5,7 +5,7 @@
 **Software Engineer · Distributed Systems · Cloud Architecture · Go · Node.js · AWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianmiyazato)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ian.miyazato.pro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ian.miyazato.pro%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ian.miyazato.pro@gmail.com)
 
 ---
 
