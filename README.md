@@ -2,7 +2,7 @@
 
 # Ian Takeo Rocha Miyazato
 
-**Backend Engineer · Distributed Systems · Cloud Architecture · Go · Node.js · AWS**
+**Software Engineer · Distributed Systems · Cloud Architecture · Go · Node.js · AWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianmiyazato)
 [![CV](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://YOUR_CV_LINK_HERE)
