@@ -43,6 +43,8 @@ Currently building **career intelligence infrastructure** at Borderless Coding (
 
 **Observability:** Grafana · Dynatrace · Prometheus · OpenTelemetry · ELK Stack · SonarQube
 
+**Architecture:** Distributed Systems Design · Event-Driven Architecture · Clean Architecture · DDD · SOLID
+
 ---
 
 ## GitHub Stats
@@ -54,4 +56,4 @@ Currently building **career intelligence infrastructure** at Borderless Coding (
 
 ---
 
-*São Paulo, Brazil (GMT-3) · Remote-ready
+*São Paulo, Brazil (GMT-3) · Remote*
