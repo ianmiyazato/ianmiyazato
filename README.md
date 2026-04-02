@@ -2,22 +2,31 @@
 
 # Ian Takeo Rocha Miyazato
 
-**Software Engineer · Distributed Systems · Cloud Architecture · Go · Node.js · AWS**
+**Software Engineer · Distributed Systems · High-Concurrency Backends · Cloud Architecture · Go · Node.js · AWS**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianmiyazato)
-[![Email](https://img.shields.io/badge/Email-ian.miyazato.pro%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ian.miyazato.pro@gmail.com)
+### 📩 Let's Connect!
+- 📧 **Email:** [ian.miyazato.pro@gmail.com](mailto:ian.miyazato.pro@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/ianmiyazato](https://linkedin.com/in/ianmiyazato)
+
+---
+
+Building distributed systems at scale (140M+ transactions) with Go and AWS, focused on high-concurrency, event-driven architecture, and production reliability.
 
 ---
 
 ## What I build
 
-I design and operate **distributed backend systems** that handle real production scale — high concurrency, event-driven workloads, and millions of monthly users. My work sits at the intersection of system architecture, reliability engineering, and business outcomes: building systems that scale without unnecessary complexity, and teams that ship with confidence.
+- Distributed backend systems at real production scale  
+- Event-driven architectures (Kafka, SQS/SNS)  
+- High-concurrency services (500–1500 RPS)  
+- Observability-driven production systems  
 
-Currently building **career intelligence infrastructure** at Borderless Coding (US). Previously at **C&A Brasil** ($1.5B retail), engineering the distributed systems that power omnichannel commerce at national scale.
+Currently building **career intelligence infrastructure** at Borderless Coding (US).  
+Previously at **C&A Brasil ($1.5B retail)**, engineering distributed systems for omnichannel ecommerce at national scale.
 
 ---
 
-## Production scale, in numbers
+## Production impact
 
 | What | Result |
 |---|---|
@@ -44,6 +53,15 @@ Currently building **career intelligence infrastructure** at Borderless Coding (
 **Observability:** Grafana · Dynatrace · Prometheus · OpenTelemetry · ELK Stack · SonarQube
 
 **Architecture:** Distributed Systems Design · Event-Driven Architecture · Clean Architecture · DDD · SOLID
+
+---
+
+## Engineering approach
+
+- System design with clear trade-offs  
+- Ownership of reliability, scalability, and performance  
+- Focus on cost efficiency and real-world impact  
+- Production-first mindset (debugging, observability, resilience)  
 
 ---
 
